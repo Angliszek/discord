@@ -1,10 +1,14 @@
 
-# Wojstef community | Discord
+# Wojstef community | Rekrutacja 
 
 
 
 
 
 
-Aby uzyskać wsparcie dołącz do serwera discord https://discord.gg/HGtpEzZy.
+Rekrutacja na rangę: Pomocnik
 
+
+Podania można składać na: zamkniete.test
+
+Status: Zamknięta

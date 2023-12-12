@@ -1,1 +1,1 @@
-wojstefcommunity.github.io
+Discord wojstef ponizej

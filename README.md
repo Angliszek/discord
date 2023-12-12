@@ -10,5 +10,5 @@
 <p align="left">✨ Ile masz lat?<br>📚 Dlaczego chcesz być pomocnikiem?<br>🎯 Od jakiego czasu jesteś na discordzie?<br>🎲 Napisz coś od siebie</p>
 
 
-<h2 align="left">Podania składamy na: discord.gg.pl <br>Kanał: Rekrutacja</h2>
+<h2 align="left">Podania składamy na: https://discord.gg/NBHxZcqh <br>Kanał: Rekrutacja</h2>
 
